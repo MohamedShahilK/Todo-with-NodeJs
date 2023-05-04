@@ -1,0 +1,6 @@
+express
+nodemon
+mongoose
+body-parser
+bcrypt
+jsonwebtoken (JWT)

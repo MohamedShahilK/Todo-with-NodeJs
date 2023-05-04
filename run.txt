@@ -1,0 +1,4 @@
+to run backend  ---   npm install
+                      npm run dev
+                     
+to run frontend -- flutter run --web-renderer html

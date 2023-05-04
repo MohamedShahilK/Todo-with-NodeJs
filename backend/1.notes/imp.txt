@@ -1,0 +1,24 @@
+1. Whenever User hits any API, the routes folder will get activated (ie; our api) and it will call corressponding controller
+
+2. In controller, we are going to handle the request and responses 
+
+3. From controller folder,we are going to services folder 
+
+4. In services folder, we are going to perform all database operations
+
+5. So we start coding from services folder to controller folder, then routes folder
+
+
+
+
+
+// importants
+    
+    1. npx kill-port 8080
+    2. "XMLHttpRequest error.". 
+        solution :- npm i  cors
+
+                    Then add this 2 lines in app.js file
+                    const cors = require("cors");
+                    app.use(cors());
+

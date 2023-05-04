@@ -1,0 +1,3 @@
+1 . add "dev":"nodemon index" under script section, in order to run index.js file along with nodemon package
+    TO RUN , "npm run dev"
+
